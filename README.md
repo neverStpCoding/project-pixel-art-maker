@@ -2,4 +2,4 @@
 
 A single page app that allows users to make customizable designs
 
-Link - https://github.com/neverStpCoding/project-pixel-art-maker.github.io
+Please view on this site - https://neverstpcoding.github.io/project-pixel-art-maker.github.io/
